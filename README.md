@@ -24,4 +24,4 @@ At this point, you've gone through the intro to Nitrous track, and are getting u
 + `learn submit`: Submit your code to Learn.co (opens a Pull Request agaisnt the main lab repository)
 
 Note: You've read about git commands to fork, clone, add, commit, push, etc. You'll learn a lot more about these down the line, but for now focus on learning to code and use the `learn` commands above to interact with the curriculum.
-<a href='https://learn.co/lessons/learn-co-sheet-sheet' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/learn-co-sheet-sheet' title='Learn Co Cheat Sheet'>Learn Co Cheat Sheet</a> on Learn.co and start learning to code for free.</p>
